@@ -1,1 +1,2 @@
-# mango-man
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
